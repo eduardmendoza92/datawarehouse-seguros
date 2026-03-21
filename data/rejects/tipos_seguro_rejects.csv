@@ -1,0 +1,5 @@
+id_tipo_seguro,tipo,categoria,riesgo_base
+1,Pyme,Familiar,
+4,Industrial,Personal,
+9,Accidentes,,5.68
+12,Agrícola,,
